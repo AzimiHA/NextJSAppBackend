@@ -1,5 +1,6 @@
 # NextJS Persian TTS App
-This is the backend of my NextJs app, uploaded here for reference.
+This is the backend of my NextJs app, uploaded here for reference. 
+If you want to check out the front end, go here 👉 https://github.com/AzimiHA/PersianTTSNextJs
 ## Architecture
 ![Architecture](docs/assets/architecture.png)
 
